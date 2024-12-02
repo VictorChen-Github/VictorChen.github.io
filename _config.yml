@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Victor Chen"
 description              : "I am a PhD candidate in University of Manitoba. "
-repository               : "VictorChen-Github/VictorChen-Github.github.io"
+repository               : "https://victorchen-github.github.io/VictorChen.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
