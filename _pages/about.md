@@ -32,10 +32,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Elsevier</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[International Capital Flows, Financial Development and Economic Growth Fluctuations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895177)
+  
+[1-International Capital Flows, Financial Development and Economic Growth Fluctuations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895177)
+
 Fang LI,Shuyong Ouyang, **Victor Chen**
 
-[Racial Integration and Active Investing]()
+[2- Racial Integration and Active Investing]()
 **Victor Chen**, Gady Jacoby, Hao Jiang, Chi Liao, and Lei Lu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
